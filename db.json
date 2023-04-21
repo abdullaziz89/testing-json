@@ -2,15 +2,15 @@
   "sportsTypes": [
     {
       "name": "Type 1",
-      "image": "image 1"
+      "image": "https://file.ideveloprs.com/allsportslogo-sporttype.png"
     },
     {
       "name": "Type 2",
-      "image": "image 1"
+      "image": "https://file.ideveloprs.com/allsportslogo-sporttype-green.png"
     },
     {
       "name": "Type 3",
-      "image": "image 1"
+      "image": "https://file.ideveloprs.com/allsportslogo-sporttype-blue.png"
     }
   ],
   "headerImages": [
