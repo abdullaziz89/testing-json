@@ -11,6 +11,18 @@
     {
       "name": "Type 3",
       "image": "https://file.ideveloprs.com/allsportslogo-sporttype-blue.png"
+    },
+    {
+      "name": "Type 4",
+      "image": "https://file.ideveloprs.com/allsportslogo-sporttype.png"
+    },
+    {
+      "name": "Type 5",
+      "image": "https://file.ideveloprs.com/allsportslogo-sporttype-green.png"
+    },
+    {
+      "name": "Type 6",
+      "image": "https://file.ideveloprs.com/allsportslogo-sporttype-blue.png"
     }
   ],
   "headerImages": [
