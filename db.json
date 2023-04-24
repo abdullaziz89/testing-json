@@ -47,7 +47,10 @@
         "title": "Capital"
       },
       "id": 1,
-      "image": "https://file.ideveloprs.com/allsportslogo-sporttype-blue.png",
+      "images": [
+        "https://file.ideveloprs.com/allsportslogo-sporttype-blue.png",
+        "https://file.ideveloprs.com/allsportslogo-sporttype-blue.png"
+      ],
       "name": "Academy 1",
       "sportType": {
         "id": 6,
@@ -65,7 +68,10 @@
         "title": "Ahmadi"
       },
       "id": 2,
-      "image": "https://file.ideveloprs.com/allsportslogo-sporttype.png",
+      "images": [
+        "https://file.ideveloprs.com/allsportslogo-sporttype.png",
+        "https://file.ideveloprs.com/allsportslogo-sporttype.png"
+      ],
       "name": "Academy 2",
       "sportType": {
         "id": 4,
@@ -83,7 +89,10 @@
         "title": "Hawalli"
       },
       "id": 3,
-      "image": "https://file.ideveloprs.com/allsportslogo-sporttype-blue.png",
+      "images": [
+        "https://file.ideveloprs.com/allsportslogo-sporttype-blue.png",
+        "https://file.ideveloprs.com/allsportslogo-sporttype-blue.png"
+      ],
       "name": "Academy 3",
       "sportType": {
         "id": 3,
@@ -101,7 +110,10 @@
         "title": "Mubarak Al-Kabeer"
       },
       "id": 4,
-      "image": "https://file.ideveloprs.com/allsportslogo-sporttype-green.png",
+      "images": [
+        "https://file.ideveloprs.com/allsportslogo-sporttype-green.png",
+        "https://file.ideveloprs.com/allsportslogo-sporttype-green.png"
+      ],
       "name": "Academy 4",
       "sportType": {
         "id": 2,
@@ -119,7 +131,10 @@
         "title": "Mubarak Al-Kabeer"
       },
       "id": 5,
-      "image": "https://file.ideveloprs.com/allsportslogo-sporttype-green.png",
+      "images": [
+        "https://file.ideveloprs.com/allsportslogo-sporttype-green.png",
+        "https://file.ideveloprs.com/allsportslogo-sporttype-green.png"
+      ],
       "name": "Academy 5",
       "sportType": {
         "id": 5,
@@ -137,7 +152,10 @@
         "title": "Hawalli"
       },
       "id": 6,
-      "image": "https://file.ideveloprs.com/allsportslogo-sporttype-green.png",
+      "images": [
+        "https://file.ideveloprs.com/allsportslogo-sporttype-green.png",
+        "https://file.ideveloprs.com/allsportslogo-sporttype-green.png"
+      ],
       "name": "Academy 6",
       "sportType": {
         "id": 5,
@@ -155,7 +173,10 @@
         "title": "Hawalli"
       },
       "id": 7,
-      "image": "https://file.ideveloprs.com/allsportslogo-sporttype-green.png",
+      "images": [
+        "https://file.ideveloprs.com/allsportslogo-sporttype-green.png",
+        "https://file.ideveloprs.com/allsportslogo-sporttype-green.png"
+      ],
       "name": "Academy 7",
       "sportType": {
         "id": 2,
@@ -173,7 +194,10 @@
         "title": "Jahra"
       },
       "id": 8,
-      "image": "https://file.ideveloprs.com/allsportslogo-sporttype-blue.png",
+      "images": [
+        "https://file.ideveloprs.com/allsportslogo-sporttype-blue.png",
+        "https://file.ideveloprs.com/allsportslogo-sporttype-blue.png"
+      ],
       "name": "Academy 8",
       "sportType": {
         "id": 3,
@@ -191,7 +215,10 @@
         "title": "Farwaniya"
       },
       "id": 9,
-      "image": "https://file.ideveloprs.com/allsportslogo-sporttype-blue.png",
+      "images": [
+        "https://file.ideveloprs.com/allsportslogo-sporttype-blue.png",
+        "https://file.ideveloprs.com/allsportslogo-sporttype-blue.png"
+      ],
       "name": "Academy 9",
       "sportType": {
         "id": 6,
@@ -209,7 +236,10 @@
         "title": "Hawalli"
       },
       "id": 10,
-      "image": "https://file.ideveloprs.com/allsportslogo-sporttype-blue.png",
+      "images": [
+        "https://file.ideveloprs.com/allsportslogo-sporttype-blue.png",
+        "https://file.ideveloprs.com/allsportslogo-sporttype-blue.png"
+      ],
       "name": "Academy 10",
       "sportType": {
         "id": 3,
