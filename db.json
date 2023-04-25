@@ -3,32 +3,32 @@
     {
       "id": 1,
       "name": "Type 1",
-      "image": "https://file.ideveloprs.com/allsportslogo-sporttype.png"
+      "image": "https://file.ideveloprs.com/1.jpeg"
     },
     {
       "id": 2,
       "name": "Type 2",
-      "image": "https://file.ideveloprs.com/allsportslogo-sporttype-green.png"
+      "image": "https://file.ideveloprs.com/2.jpeg"
     },
     {
       "id": 3,
       "name": "Type 3",
-      "image": "https://file.ideveloprs.com/allsportslogo-sporttype-blue.png"
+      "image": "https://file.ideveloprs.com/3.jpeg"
     },
     {
       "id": 4,
       "name": "Type 4",
-      "image": "https://file.ideveloprs.com/allsportslogo-sporttype.png"
+      "image": "https://file.ideveloprs.com/4.jpeg
     },
     {
       "id": 5,
       "name": "Type 5",
-      "image": "https://file.ideveloprs.com/allsportslogo-sporttype-green.png"
+      "image": "https://file.ideveloprs.com/5.jpeg"
     },
     {
       "id": 6,
       "name": "Type 6",
-      "image": "https://file.ideveloprs.com/allsportslogo-sporttype-blue.png"
+      "image": "https://file.ideveloprs.com/6.jpeg"
     }
   ],
   "headerImages": [
